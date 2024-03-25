@@ -23,8 +23,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://your-repo-link.com/restaurant-reviews.git
-   cd restaurant-reviews
+   git clone https://github.com/MaksatNiiazov/TataDev-TestTask.git
 Install the dependencies:
 
 
